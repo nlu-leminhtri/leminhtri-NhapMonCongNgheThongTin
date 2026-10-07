@@ -9,4 +9,4 @@
 ​  -Mục tiêu học tập: Nắm vững nền tảng CNTT và thành thạo các công cụ làm việc nhóm/quản lý mã nguồn.  
 ​3. Liên hệ
 ​   -Email: 2611130223@st.hcmuaf.edu.vn
-​   -GitHub: https://github.com/hoangvanthien-fit
+​   -GitHub:https://github.com/nlu-leminhtri
