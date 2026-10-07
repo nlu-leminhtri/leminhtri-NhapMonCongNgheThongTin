@@ -1,5 +1,6 @@
 # GIỚI THIỆU BẢN THÂN
 1. Thông tin cá nhân
+2. 
 ​     -Họ và tên: Lê Minh Trí
 ​     -Mã số sinh viên: 2611130243
 ​     -Lớp: [NMCNTT]  
