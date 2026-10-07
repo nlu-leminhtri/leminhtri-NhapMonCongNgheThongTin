@@ -1,7 +1,6 @@
 # GIỚI THIỆU BẢN THÂN
 1. Thông tin cá nhân
-. 
- -Họ và tên: Lê Minh Trí
+-. Họ và tên: Lê Minh Trí
 ​     -Mã số sinh viên: 2611130243
 ​     -Lớp: [NMCNTT]  
 ​     -Trường: [Trường Đại học Nông Lâm TP.HCM]  
